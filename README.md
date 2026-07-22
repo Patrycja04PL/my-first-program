@@ -1,20 +1,20 @@
-# MyFirstProgram
+# 🚀 MyFirstProgram
 
 To jest mój pierwszy program w C#.
 
-## Opis
+## 🧩 Opis
 Prosty projekt konsolowy, który służy do nauki podstaw C# i .NET.
 
-## Uruchamianie
+## ▶️ Uruchamianie
 1. Otwórz terminal w katalogu projektu.
 2. Uruchom polecenie:
    ```bash
    dotnet run
    ```
 
-## Pliki
+## 📁 Pliki
 - `Program.cs` – główny plik programu.
 - `MyFirstProgram.csproj` – plik projektu .NET.
 
-## Uwagi
+## 💡 Uwagi
 Ten projekt został utworzony jako przykład pierwszej aplikacji w .NET.
