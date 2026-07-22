@@ -1,0 +1,14 @@
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.deps.json
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.runtimeconfig.json
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.dll
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/bin/Debug/net10.0/MyFirstProgram.pdb
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.AssemblyInfo.cs
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.dll
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/refint/MyFirstProgram.dll
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.pdb
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/MyFirstProgram.genruntimeconfig.cache
+/Users/patrycjalazik/Pati_Programy/MyFirstProgram/obj/Debug/net10.0/ref/MyFirstProgram.dll
